@@ -18,7 +18,7 @@ I'm drawn to problems where microseconds count: trading systems, caching layers,
 
 **[Distributed-Cache-System](https://github.com/Sudhanshu-S3/Distributed-Cache-System)** — Custom distributed cache focused on fast response times.
 
-**[Tracker](https://github.com/Sudhanshu-S3/Tracker)** — Tracking My process.
+**[Tracker](https://github.com/Sudhanshu-S3/Tracker)** — Tracking My Progress.
 
 ## Tech I use
 
