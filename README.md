@@ -2,11 +2,9 @@
 
 I'm a C++ developer, and I spend most of my time building systems where speed actually matters — low-latency infrastructure, real-time processing, that kind of thing.
 
-## What I work on
 
-I'm drawn to problems where microseconds count: trading systems, caching layers, event-driven architectures. Most of my work involves figuring out how to make things faster — whether that's through lock-free data structures, smarter memory management, or just writing cleaner code that doesn't get in its own way.
+## Main interests
 
-**Main interests:**
 - Real-time and event-driven systems
 - Concurrency, threading, lock-free designs
 - Memory-efficient data structures
