@@ -1,7 +1,7 @@
 # Sudhanshu
 
-> I like understanding how things actually work — not just using them.
-> C++20, Linux, low-latency systems.
+I like understanding how things actually work — not just using them.
+C++20, Linux, low-latency systems.
 
 ## Interests
 - Real-time and event-driven systems
